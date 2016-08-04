@@ -1,0 +1,11 @@
+{
+  "name": "attr-str-to-obj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "attrStrToObj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kmsheng <kmsh3ng@gmail.com> (https://kmsheng.com)",
+  "license": "ISC"
+}
