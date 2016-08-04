@@ -2,7 +2,7 @@
   "name": "attr-str-to-obj",
   "version": "1.0.0",
   "description": "",
-  "main": "attrStrToObj.js",
+  "main": "dist/attrStrToObj.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
